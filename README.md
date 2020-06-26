@@ -5,3 +5,7 @@ This is a rough draft of the approach.
 Advantages:    
 * No need of multi scale template matching CNNs!    
 * Blazing fast
+
+## Contributors    
+* [Praveen(me)](github.com/gigatesseract)    
+* [Jahnavi](github.com/JahnaviSrividya/)
